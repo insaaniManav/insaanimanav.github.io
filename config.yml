@@ -1,5 +1,8 @@
-path: './links' # default is './'
+path: './' # default is './'
 urls:
-  google: https://google.com
-  tools:
-    github: https://github.com
+  resume: https://objectstorage.ap-hyderabad-1.oraclecloud.com/n/ax77zqdyeqeb/b/nextcloud/o/resume.pdf
+  github: https://github.com/insaanimanav
+  gitlab: https://gitlab.com/insaanimanav
+  linkedin: https://linkedin.com/in/insaanimanav
+
+
