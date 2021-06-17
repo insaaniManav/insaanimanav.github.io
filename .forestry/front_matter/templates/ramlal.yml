@@ -7,3 +7,5 @@ fields:
   config:
     required: false
   label: '2134'
+pages:
+- content/Manav.md
