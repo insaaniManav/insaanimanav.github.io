@@ -4,5 +4,7 @@ urls:
   github: https://github.com/insaanimanav
   gitlab: https://gitlab.com/insaanimanav
   linkedin: https://linkedin.com/in/insaanimanav
+  gpg: https://keys.openpgp.org/vks/v1/by-fingerprint/F47A339A252DF3126ED06AF67643324058BFA836
+  ssh: https://gitlab.com/insaanimanav.keys
 
 
