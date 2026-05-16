@@ -1,0 +1,3 @@
+I have been on several flights to and from Bangalore several times now (Let me quickly lookup my Air India Maharaja Club "Silver"(default) Tier Membership to check. Okay so its 4 in the last year overall 10-12 (Sometimes I fly Indigo)). Longest stint was I think 3 months
+in 2025 with my last employer. I used to stay in a PG in front of the office in Devarabisanhalli(Translates to the village of gods), Bellandur(Translates to The bright village). I used to wake up at 7am go to the Panathur Cult workout and then come back around 9:30
+Get ready in time for standup and run to office. Around 7:30-8 start the whole dance of I'm leaving, say goodbye to people to my Manager(s). Leave by 8:30. Dinner by 9. Worked till 11 and then bed 
