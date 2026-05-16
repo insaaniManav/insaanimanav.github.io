@@ -27,7 +27,7 @@ jobs:
           extended: true
 
       - name: Build
-        run: hugo --minify
+        run: hugo --minify --baseURL "https://insaanimanav.github.io/manav-co-in/"
 
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
