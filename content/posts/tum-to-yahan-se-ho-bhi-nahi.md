@@ -10,8 +10,7 @@ And then he ended the bit with a line that I still remember as the room was stil
 
 I still think of that line sometimes whenever I find myself back in a KIA bus heading to some place in HSR or Sarjapur my friends call their "New home".
 
-They always say it like that. "New home." Even the ones who've been here six years. Even the ones with a lease and a sofa they bought themselves. The quotes never quite come off.
-Because home is still Patna. Or Delhi. Or Pondicherry. New home is the 2BHK with three flatmates, the Blinkit guy who knows the order, and the run club at 6am that's secretly a family.
+Home is still Patna. Or Delhi. Or Ludhiana. New home is the 2BHK with three flatmates and the Blinkit guy who knows the order
 
 I had never really understood the charm of Cubbon park. I hate running in general but this one time a friend took me there for a run, I only went because he promised me Dosa at the Airlines Hotel right after.
 So at Cubbon - I saw so many runners show up with their Oakley shades and arm bands for phones . Everyone seemed to be enjoying their Sunday Morning. Everyone ran around for an hour in their Asics Gel Nimbus 25 (sorry, 26, or wait, are they on 27 now)
