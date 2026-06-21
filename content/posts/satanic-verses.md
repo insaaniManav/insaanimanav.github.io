@@ -19,7 +19,8 @@ Overall though this book is about a few things
 * Islam as a religion and the whole tale of Satanic Verses in early Islamic tradition. Also if you look at it from a different lens it talks about the thin line between being a god and being a dictator, and whether they're even different things.
 * Good vs Evil (I know I know every book talks about this), He argues that nobody is inherently good or evil by nature, everyone always has an angel and devil on their shoulders pulling their strings (Even if you look and smell like the literal devil).
 
-One part of the book though that I specifically loved is the end of it, the way the story concludes with Gibreel's schizophrenia prompting him to take his own life, after pushing Allie Cone from the exact rooftop that Rekha Merchant jumped from and how he subtly blames a very dead Rekha for it, and how Saladin was responsible for the chain of events leading up to it is just 🤌 chef's kiss.
+One part of the book I specifically loved is the ending. Gibreel's schizophrenia prompts him to take his own life, but not before pushing Allie Cone from the exact rooftop where Rekha Merchant jumped — and subtly blaming a very dead Rekha for it. Saladin is responsible for the chain of events that led to it. The whole thing is just 🤌 chef's kiss.
+Apart from the literal plot, I loved how Rushdie ties this back to the actual Satanic Verses story . Gibreel hears things on the phone and can't tell if they're from the devil or from god, and ends up acting on the wrong ones. And the literal devil on the other end of the phone, whispering these verses into his ear? Chamcha.
 
 
 ## Would you recommend this
