@@ -10,7 +10,7 @@ description = "Resume of Manav Sethi — backend engineer with experience in Go,
 **Backend & Infrastructure Engineer**  
 Delhi, India | [mail@manav.co.in](mailto:mail@manav.co.in) | [manav.co.in](https://manav.co.in)
 
-Backend and infrastructure engineer, currently at Ravenmail. Previously founding engineer at Swiggy Crew, backend at Olvy. I build microservices, ship ML inference infra, and write about the work at [manav.co.in](https://manav.co.in).
+Backend and infrastructure engineer, currently at Ravenmail. Previously founding engineer at Swiggy Crew, backend at (Olvy)[https://olvy.co].
 
 ---
 
