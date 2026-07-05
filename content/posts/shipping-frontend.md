@@ -4,6 +4,7 @@ date = "2026-07-05"
 draft = false
 author = "Manav"
 tags = ["ai"]
+aliases = ["/posts/shipping-frontend-with-claude-code/"]
 +++
 
 I am a backend engineer. I have written maybe four hundred lines of production React in my life, most of them poorly stitched-together code. Last month, I was asked to ship a full frontend feature at work.
