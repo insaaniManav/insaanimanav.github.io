@@ -11,8 +11,11 @@ my eyes fell upon this book that we are going to talk about now - "Satanic Verse
 
 So as I have already kind of confessed I did the worst thing someone could do as per humanity ("Judge a book by its cover") and bought it. I then kind of forced myself to get through it for the first few hundred pages. But after the next 100 or Idk 150 pages I was HOOKED.
 
-Rushdie uses a couple of literary devices - ["Magical Realism"](https://en.wikipedia.org/wiki/Magical_realism) and ["Maximalism"](https://en.wikipedia.org/wiki/Maximalism) to write and both of these take some getting used to, fortunately or not for me I had read *Acts of God* by Kanan Gill just a few months ago and he uses almost the same literary devices so navigating them was made a little bit easier.
-He switches from real life to incredibly elaborate dream sequences and then back to real life which kind of mirrors parts of the dream / has the same character names as the dream?
+Rushdie uses a couple of literary devices - ["Magical Realism"](https://en.wikipedia.org/wiki/Magical_realism) and ["Maximalism"](https://en.wikipedia.org/wiki/Maximalism) to write and both of these take some getting used to.
+
+The Idea is that he switches from real life to incredibly elaborate dream sequences and then back to real life which kind of mirrors parts of the dream / has the same character names as the dream?
+
+Fortunately or not for me I had read *Acts of God* by Kanan Gill just a few months ago and he uses almost the same literary devices so navigating them was made a little bit easier.
 
 Overall though this book is about a few things
 * Margaret Thatcher's England and the anti immigration rhetoric and the Western dream of how Indians loved losing their identity to become foreigners.
