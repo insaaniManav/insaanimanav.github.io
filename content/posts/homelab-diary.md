@@ -9,13 +9,13 @@ The title tells you what you need to know about the contents of this blog. The i
 Almost always proxmox, homeassistant, xeons running in basements. Well, this is another one of them
 
 ## Act 1
-My tryst with building a homelab started back when the Raspberry pi 4 came out. COVID was raging and I was a bored college kid. I bought one, had a couple of old HDDs lying around, hooked all of them up. Started running Nextcloud and Jellyfin on it. 
+My tryst with building a homelab started back when the Raspberry Pi 4 came out. COVID was raging and I was a bored college kid. I bought one, had a couple of old HDDs lying around, hooked all of them up. Started running Nextcloud and Jellyfin on it. 
 
 Also ran Pi-hole (someone told me if you don't run it on your homelab, you can expect a call from law enforcement)
 
 That was also my first playground with the blue whale boxes, nginx, VPNs, tailscale and just raw sysadmin work. 
 
-I remember running Arch Arm on this, manually compiling Docker Images for ARM because half of what I needed didn't exist. Spending whole days just tinkering with the setup. 
+I remember running Arch ARM on this, manually compiling Docker images for ARM because half of what I needed didn't exist. Spending whole days just tinkering with the setup. 
 
 ### How was it 
 
@@ -38,22 +38,19 @@ And more recently, [training Gemini on your personal photos](https://www.howtoge
 
 Here's where the old me would have gotten the latest Raspi, and set up a Nextcloud in the shoebox again.
 
-The new me decided to pay Hetzner to host them for me.
+Like any ex-tinkerer looking for reliability, the new me decided to pay Hetzner to host them for me.
 
-That is the whole Act 2. The Raspberry Pi era was about learning to run infrastructure. 
-This one is about not wanting to. 
+The Raspberry Pi era was about learning to run infrastructure. This one is about not wanting to.
 
 I don't have the patience for a disconnecting HDD anymore. 
 I don't want to wake up on a Sunday and find out my photos are inaccessible because I chose the wrong USB cable in 2020. 
 I want the photos backed up, the ads blocked, the documents scanned, and I want to think about it approximately once a quarter when the bill renews.
 
-I then saw this project called Immich and figured this seems like a nice google photos replacement. Looked around a bunch for hosting solutions but nothing was more private and cheaper than Hetzner so ended up just landing here.
-
 ### What I finally decided to run on my Home Lab (in Europe) :
 
 * Pi-hole + Wireguard (whoop whoop that's the sound of da police)
-* Immich
-* Paperless - NGX
+* Immich for photos. It's basically Google Photos without the Google. Found it after a bit of hunting for a self-hosted replacement.
+* Paperless-ngx for documents.
 
 ### Hardware
 * Arm64 Box - 2 VCPU - 4GB Ram - Hetzner calls this CAX11 - 500ish rupees a month 
@@ -65,7 +62,11 @@ Spent like half a day setting this up via a reproducible Ansible playbook incase
 
 Oh also did I mention the storage box comes with 10 free snapshots rotating themselves starting with the latest ?
 
-Although let's see how long this setup lasts with the current rising RAM and Storage prices. For now, shoebox is still on the shelf somewhere. It'll probably stay there.
+Although let's see how long this setup lasts with the current rising RAM and storage prices. For now, the shoebox is still on the shelf somewhere. It'll probably stay there.
+
+--- 
+
+You know what's reliable though, Parmesan fries at Nomad's Pizza, GK. Somewhere along the line with McDonald's fries I feel like we lost the plot, these ones bring it back. Freshly peeled, fried, crispy with the Umami of Parmesan 
 
 
 
