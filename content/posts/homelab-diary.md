@@ -5,8 +5,7 @@ draft = false
 author = "Manav"
 +++
 
-The title tells you what you need to know about the contents of this blog. The internet (at least the part of the internet where I live) is chock full of homelab guides / personal blogs on homelab setups.
-Almost always proxmox, homeassistant, xeons running in basements. Well, this is another one of them
+Most homelab posts are about the setup someone is building. This one is about the setup I stopped building, and the one I stopped tinkering with.
 
 ## Act 1
 My tryst with building a homelab started back when the Raspberry Pi 4 came out. COVID was raging and I was a bored college kid. I bought one, had a couple of old HDDs lying around, hooked all of them up. Started running Nextcloud and Jellyfin on it. 
@@ -66,7 +65,7 @@ Although let's see how long this setup lasts with the current rising RAM and sto
 
 --- 
 
-You know what's reliable though, Parmesan fries at Nomad's Pizza, GK. Somewhere along the line with McDonald's fries I feel like we lost the plot, these ones bring it back. Freshly peeled, fried, crispy with the Umami of Parmesan 
+You know what will last though, Parmesan fries at Nomad's Pizza, GK. Somewhere along the line with McDonald's fries I feel like we lost the plot, these ones bring it back. Freshly peeled, fried, crispy with the Umami of Parmesan 
 
 
 
