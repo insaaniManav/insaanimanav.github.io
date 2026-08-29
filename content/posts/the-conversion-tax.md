@@ -1,5 +1,5 @@
 +++
-title = "The conversion tax(This post is about physics I swear)"
+title = "The conversion tax (This post is about physics I swear)"
 date = "2026-08-27"
 draft = false
 author = "Manav"
@@ -8,11 +8,17 @@ author = "Manav"
 Last weekend my printer's Z-axis lead screw was kind of misbehaving and I spent some time debugging it. Once I was done, I asked myself why is it that most actuation we see on a day to day basis is circular by nature.
 Every single time, we want to move something linearly (at scale), we end up paying a small tax. The tax of ball bearings, lubricants, gearboxes. Why is it that the actuation gods hate moving sideways      ?
 
-Seriously take a whole minute and think where was the last time you saw linear actuation at scale (Manav, who even notices that??).
+Seriously take a whole minute and think where was the last time you saw linear actuation at scale (C'mon Manav, who even notices that??).
+
 .
+
 .
+
 .
+
 .
+
+
 .
 The most common answer would be hydraulics, the JCB outside of your home which needs to lift several tonnes of sand and cement off the ground, uses a naturally linear actuator.
 
