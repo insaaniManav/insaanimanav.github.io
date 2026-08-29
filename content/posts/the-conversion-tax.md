@@ -18,8 +18,8 @@ Seriously take a whole minute and think where was the last time you saw linear a
 
 .
 
-
 .
+
 The most common answer would be hydraulics, the JCB outside of your home which needs to lift several tonnes of sand and cement off the ground, uses a naturally linear actuator.
 
 In my research for this post I came across a common pattern of things, anything that needs to hold a lot of weight and might need to do it for a long time, uses hydraulics and hence linear actuators.
@@ -52,9 +52,13 @@ But none of this above helps me, I still gotta pay the tax and make sure my Z-ax
 No Manav you didn't bore me to death tell me more
 
 [Actuators in robotics](https://www.firgelli.com/blogs/news/the-physics-of-humanoid-motion)
+
 [Difference between linear motors and mechanical devices](https://www.machinedesign.com/mechanical-motion-systems/linear-motion/article/21831837/the-difference-between-linear-motors-and-linear-mechanical-devices)
+
 [Rotary vs. Linear Electric Actuators](https://jhfoster.com/automation-blogs/rotary-vs-linear-electric-actuators/)
+
 [A History of the Steam Engine](https://brewminate.com/of-pistons-and-combustion-a-history-of-the-steam-engine/)
 
---- 
-If you're ever visiting Hauz khas, make sure to try the Ema Datshi at Llama Kitchen. Their service is painfully slow but the cheesy dish is so damn comforting especially in Delhi rains 
+---
+
+You know what's doesn't need you to think about actuation(Bad segue ik but couldn't figure out a better one) - the Ema Datshi at Llama Kitchen. Their service is painfully slow but the cheesy dish is so damn comforting especially in Delhi rains 
