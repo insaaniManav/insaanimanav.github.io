@@ -27,7 +27,7 @@ After which you have no idea who Padma even is and why is she so invested in his
 
 I also loved the part where he says Indira Gandhi imposed emergency specifically because she wanted to collect all of the Midnight's children and neuter them because she felt threatened by their existence, But then reveals that Shiva's kids are all out there still.
 
-Anyhoo, I can write a million lines starting from the phrase "I also loved the part.." but then this would no longer be a "Tiny" book review ? So I will just leave it at that. Overall the book is once again a must read (if you can find your way around Rushdie's writing style)
+Anyhoo, I can write a million lines starting from the phrase "I also loved the part.." but then this would no longer be a "Tiny" book review . So I will just leave it at that. Overall the book is once again a must read (if you can find your way around Rushdie's writing style)
 
 ### Fav quotes / Lines from the book
 
@@ -39,8 +39,10 @@ Talking about the end of the 1965 war - "Some of us survived, because nobody sol
 
 "Major Latif's daughters - Safia and Rafia and the five other Afias - were dubbed collectively, The Puffias"
 
+---
 
 Also btw I finally know what a spittoon is, After reading about it for like half the damn book I was like let me google and see what this spittoon actually means
+
 ---
 
 You know what could get you superpowers though - The Butter chicken at Al Kauser in Vasant Vihar combine it with their Khamiri roti to finally put an end to the Best butter chicken in Delhi debate (atleast in your mind)
