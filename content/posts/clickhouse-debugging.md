@@ -6,6 +6,7 @@ author = "Manav"
 +++
 
 When I first setup and started working with ClickHouse all I knew was that it's an OLAP Database which understands SQL so it's OLAP and easier to talk to.
+
 What nobody told me though, was that ClickHouse is the Belgian Malinois of databases. It will definitely do things Postgres (a mere golden retriever) simply cannot. It will also find a way to hurt itself if you stop paying attention for three weeks.
 
 So let's learn to tame the Belgian Malinois of databases
@@ -39,6 +40,8 @@ ClickHouse keeper here simply acts as an append only log of information between 
 Also this is useful for co-ordination and leader election, When A says I am going to merge parts 10 to 25 it appends to keeper - 10 to 25 merged to 26. B then picks that up and performs the same operation.
 
 ---
+
+Now that we have a decent understanding of clickhouse internals needed for this post, we can go ahead and see the various failure modes that come with it 
 
 ## Taming a single ClickHouse instance
 
@@ -149,17 +152,19 @@ clickhouse-keeper-client has a bunch of smaller useful commands like ls, cd, get
 
 ## Setting up a monitoring system so you don't need to go on debugging rabbit holes
 
-Simplest and the most comprehensive way to setup monitoring is to enable the ClickHouse's built in prometheus metrics which gives you every piece of information out of the box. Everything mentioned above and bit more.
+Simplest and the most comprehensive way to setup monitoring is to enable the ClickHouse's built in metrics exporter which gives you almost every piece of information out of the box. Everything mentioned above and bit more.
 
 Setup graphs and alerts and make sure your Malinois doesn't hurt itself
 
 ### Good things to alert on
-*  Rate of part creation - Higher rate or increasing rate here is a decent warning of either higher incoming load or an application bug
-*  Rate of merges complete - Low number here means something might be up
-*  Keeper znode count and memory use - Keeper is a fairly resilient piece of software and before fully dying it gives you a lot of signs like high RAM usage. Alert on that
+*  **Rate of part creation** - Higher rate or increasing rate here is a decent warning of either higher incoming load or an application bug
+*  **Rate of merges complete** - Low number here means something might be up
+*  **Keeper znode count and memory use** - Keeper is a fairly resilient piece of software and before fully dying it gives you a lot of signs like high RAM usage. Alert on that
 *  Alert on a table showing zero new parts alongside a high error rate
 
-### Lowest hanging fruit
+---
+
+### Sane config to have when you deploy a clickhouse instance
 
 ClickHouse stores a lottttt of logs in internal tables which fill up exponentially and by default there is absolutely no TTL on these tables.
 
@@ -181,4 +186,4 @@ But a Malinois that nobody walks is a Malinois that eats your sofa, and a ClickH
 Walk the dog.
 
 ---
-The Rabokki (Ramen weds Tteokbokki) and Chicken Cheese dumplings at Kalsang Cafe might just be the cheapest and arguably the most delicious thing you can devour while maintaining your ClickHouse instance.
+The Rabokki (Ramen weds Tteokbokki) and Chicken Cheese dumplings at Kalsang Cafe might just be the the most delicious thing you can devour while maintaining your ClickHouse instance.
