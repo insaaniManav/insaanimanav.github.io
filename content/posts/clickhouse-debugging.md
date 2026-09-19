@@ -1,5 +1,5 @@
 +++
-title = "The Belgian Malinios of databases"
+title = "The Belgian Malinois of databases"
 date = "2026-09-19"
 draft = false
 author = "Manav"
