@@ -5,9 +5,9 @@ draft = false
 author = "Manav"
 +++
 
-Recently a few juniors of my own bought the BambuLab A1 FDM 3d printer, It looked expensive and felt like one of those Ultimaker printers you take out of the box and they deliver perfect prints from day 1.
+Recently a few of my juniors bought the BambuLab A1, It looked expensive and felt like one of those Ultimaker printers you take out of the box and they deliver perfect prints from day 1.
 
-Even the print quality was insane. Multi extruder setup, inbuild auto levelling. Their dynamic flow control all of it felt magical. All of that under 25k too. So I went down the rabbit-hole if it's even worth buying an Ender3 today.
+Even the print quality was insane. Multi extruder setup, inbuild auto levelling. Their dynamic flow control all of it felt magical. All of that close to 30k too. So I went down the rabbit-hole if it's even worth buying an Ender3 today.
 
 My Ender3-v2 turned 5 this year,  I got this wayy back in 2021 for 18k when 3d printers were just becoming affordable. A bit out of curiousity but mostly out of FOMO and some peer pressure.
 
