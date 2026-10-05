@@ -17,8 +17,10 @@ Just saw the nearest hardcover when the books rolled out and picked this one up.
 
 ## About the author
 
-This book is a work of satire mixed with a lot of exaggeration. So, before getting into the book and the story, it's good to read up on the author
-Wherever you read about Joseph Heller, he comes across as a satirist, but unless you dig into who he is you won't realize he was a bombardier himself
+This book is a work of satire mixed with a lot of exaggeration. So, before getting into the book and the story, it's good to read up on the author himself.
+
+Wherever you read about Joseph Heller, he comes across as a satirist,novelist, writer but unless you dig into who he is you won't realize he was a bombardier himself.
+
 He flew 60 combat missions as a B-25 bombardier. The absurdity, bureaucracy, and sheer terror of these missions are what provided the foundational raw material for Catch-22.
 
 I for one learnt this after finishing the book after which my first thought was, wait is working for the Army really that ridiculous. Well, it's coming from personal experience, it probably is
