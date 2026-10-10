@@ -27,7 +27,7 @@ Looking at all of this RBI finally decided to adopt and bring in the global stan
 
 ## How does RTGS work
 
-On a fundamental level RTGS is an atomic ledger update done on a ledger owned by RBI which governs each bank's account with the RBI.
+On a fundamental level RTGS is an atomic ledger update governs each bank's account with the RBI.
 
 Similar to how we have an account with our bank, our bank has an account with the RBI. When you say give an account in bank B, 50 lakh rupees. RBI atomically deducts from A's account moves it to B's account and then B can settle it with the customer on their end.
 
@@ -39,7 +39,7 @@ Because the database update is atomic, the exact moment the record commits on th
 This strict technical atomicity is the main reason why all global financial systems rely on RTGS for high-value institutional payments, it completely eliminates the scenario of Settlement Risk.
 
 ---
-Now that in 2004 high value low frequency transactions finally had a way to be processed, RBI wanted to tackle low value high frequency transactions too AKA consumer retail.
+Now that in 2004 high value low frequency transactions finally had a way to be processed, RBI wanted to tackle low value high frequency transactions too, AKA consumer retail. 
 
 We just saw how RTGS settles every transaction individually against the RBI ledger, well the issue is, we can't do this a million times a day for 500 rupees each time. The biggest reason being every single settlement needs the sending bank to have that full amount sitting in its RBI account at that exact moment, and doing this a few times a day is acceptable but definitely not millions.
 
@@ -59,9 +59,9 @@ This meant that smaller transactions could be performed for super cheap and henc
 
 This was also a massive liquidity relief because incoming and outgoing payments cancel each other out, commercial banks require drastically less raw fiat money in their RBI accounts to settle retail traffic.
 
-## The birth of IFSC codes
+## IFSC codes
 
-Now when RTGS was first introduced, it was meant only for big corpos, branches of govt etc and wasn't really opened to the public. So whenever a big transfer happened from Bank A's account to Bank B, post the actual transfer, a clerk at bank B would manually lookup the branch of the account and transfer the money there.
+When RTGS was first introduced, it was meant only for big corpos, branches of govt etc and wasn't really opened to the public. So whenever a big transfer happened from Bank A's account to Bank B, post the actual transfer, a clerk at bank B would manually lookup the branch of the account and transfer the money there.
 
 But when NEFT came out, each transaction needed to land at the correct branch too post settlement, Asking a human to do it wasn't scalable. Hence Indian Financial System Code(IFSC) codes aka digital addresses for bank accounts were introduced.
 
@@ -82,7 +82,7 @@ SBIN0000691 -  Bank code (4 chars) + Control Character (1 char - Always 0 for no
 
 ## NPCI, Wait another banking regulator ??
 
-In 2008, RBI realized that the task of regulating the country's economy as a whole and managing millions of retail transactions a day was getting overwhelming and under the Payments and Settlements Act of 2007, NPCI was born.
+In 2008, RBI realized that the task of regulating the country's economy as a whole and managing millions of retail transactions a day was getting overwhelming and under the Payments and Settlements Act of 2007, NPCI was born as a non-profit org meant to take over all retail transactions.
 
 One of the first things NPCI did was take control of something called a National Financial Switch NFS.
 
@@ -92,7 +92,7 @@ You know how you can just go to any ATM and withdraw cash instead of trying to f
 
 ## IMPS - Instant payments for everyone at last
 
-Now By 2010, millions of cheap mobile phones were flooding India, and the telecom sector was exploding. The RBI realized that the future of banking wasn't desktop internet banking (which NEFT relied on), it was mobile.
+By 2010, millions of cheap mobile phones were flooding India, and the telecom sector was exploding. The RBI realized that the future of banking wasn't desktop internet banking (which NEFT relied on), it was mobile.
 
 The NPCI hence designed a mobile-native architecture. They invented the MMID (Mobile Money Identifier), a simple 7-digit random number. This allowed a consumer to securely route an instant transaction using just a Mobile Number + MMID, completely bypassing the clunky IFSC structure.
 
@@ -126,9 +126,9 @@ It was as simple as -:
 
 ## Birth of UPI
 
-Now that we finally had IMPS, there was a way, a platform on top of which someone could do instant transactions between bank accounts for pennies. The issue was it still needed you to input a long code and then use your bank's app and well.....
+IMPS was finally a platform on top of which someone could do instant transactions between bank accounts for pennies. The issue was it still needed you to input a long code and then use a very well developed bank app.
 
-UPI was finally the key to democratising digital transactions.
+UPI was finally introduced  the key to democratising digital transactions.
 
 One VPA internally mapped to an account that could be in any bank, you could use any app to send or receive payments.
 
@@ -138,9 +138,11 @@ Fun thing about VPAs they could just be converted into QR codes hung outside sho
 
 Another interesting thing NPCI introduced with UPI was UPI collect, Finally a way for an app to send you a payment request instead of fumbling with net-banking or debit cards when you had to open amazon.
 
+So the biggest reason IMO for UPI taking off was finally realizing customers really wanted to conveniently use their smartphones to pay and nobody liked their bank's horrible apps
+
 ## Conclusion
 
-I feel like this is one of those places where India came out ahead, India built the rails as public infrastructure and let private companies fight over the interface.
+I feel like this is one of those places where India came out ahead, We built the rails as public infrastructure and let private companies fight over the interface with UPI apps.
 
 Most countries did the opposite — card networks own the rails, charge 2-3%, and have no incentive to make transfers free.
 
