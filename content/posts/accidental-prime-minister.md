@@ -76,7 +76,7 @@ Here is a rough recreation of incidents with the years attached with a sprinkle 
   * Bill this close to passing, gets the votes
   * BJP ministers start waving bags of cash saying they've been paid cash in exchange for votes
 
-Reading about this entire ordeal makes one really think hard about the other side of Democracy and Coalition govts. The one that leads to such crucial deals and agreements taking 10 years (Long enough for Marvel to build a whole cinematic universe and then accidentally break it again)
+Reading about this entire ordeal makes one really think hard about the other side of Democracy and Coalition govts. The one that leads to such crucial deals and agreements take the same time as Marvel to build a whole cinematic universe and then accidentally break it again
 
 But at the end I'd love to leave you with this quote from Mr Churchill a couple years after being voted out of office post WW2
 
