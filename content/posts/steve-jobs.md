@@ -1,6 +1,6 @@
 +++
 title = "Tiny Book review - Steve Jobs by Walter Isaacson"
-date = "2026-06-21"
+date = "2026-11-20"
 draft = false
 author = "Manav"
 +++
