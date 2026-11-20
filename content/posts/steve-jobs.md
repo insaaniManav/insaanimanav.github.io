@@ -8,8 +8,10 @@ author = "Manav"
 Disclaimer: This post can be a trigger for the Apple Fans, unlike my posts about political books, I do know enough about this subject to argue with you, please feel free to DM me on X or Email.
 
 ---
+
 This one had been collecting dust on my shelf for a while. Had this guy's face staring right at me every time I opened my Almirah, Taunting me with all its 500 pages.
 Well guess what, this was finally the year I got the attention span to read 500 page books, So guess who rage-read it this week.
+
 ---
 
 The author himself is just a biographer, He's not Jobs' best friend or mortal enemy and his writing style reflects that for the most part. He makes no effort to make you sympathize with him.
