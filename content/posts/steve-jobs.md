@@ -42,6 +42,8 @@ What I do like about the book is the above facts are all represented in a linear
 
 --- 
 
+### My general take on Apple Products
+
 My take on apple products for the longest time was Anti. The hacker in me could never get past the fact that I couldn't sideload or get a RAM upgrade on one of these things.
 
 I even gave them a fair shot, Got an iPhone 13, a hand me down Apple Watch, AirPods Pro, company MacBook. The whole spiel.
@@ -49,7 +51,8 @@ I even gave them a fair shot, Got an iPhone 13, a hand me down Apple Watch, AirP
 After a few months I didn't feel suffocated because I wasn't able to sideload, I learnt to live with Youtube Ads and other things, I suffocated from the lack of options.
 
 If I feel the AirPods' sound isn't good enough and I want to buy a pair of Sony's, well they won't work as well. Only half the features will work.
-If I want to get a phone with a bigger camera sensor and Apple doesn't sell one, I can't if I want my AirPods and watch to work with it.
+
+If I want to get a phone with a bigger camera sensor and Apple doesn't sell one, I can't because if I bought an Android,My Airpods and watch just won't work with it.
 
 Sold the phone, AirPods and watch off and came back home to an S23 Ultra, Sony XM4s, Galaxy Watch 2 within 6 months.
 
