@@ -24,7 +24,7 @@ Backend and infrastructure engineer, currently at Ravenmail. Previously founding
 *Feb 2025 – Feb 2026 | Bangalore, India*
 - **AI Architecture:** Built a custom in-house Bot Orchestrator and an autonomous Cab Booking Agent, saving ∼13 hours daily in operations.
 - **Revenue Systems:** Engineered core Subscription Metered Billing microservices from scratch for CREW.
-- **LLM Ops:** Integrated Langfuse for prompt versioning, reducing deployment time by 90% and captain context-switching by 80%.
+- **LLM Ops:** Integrated Langfuse for prompt versioning, reducing deployment time by 90% and human context-switching by 80%.
 
 ### Testsigma | AI Consultant
 *Aug 2024 – Feb 2025 | Remote*
