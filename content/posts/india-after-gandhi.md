@@ -11,7 +11,7 @@ Disclaimer 2: This is not a political blog. I do not claim to know what politics
 
 ---
 
-This book found me when I was browsing around OM book store at the Unity One Elegante Mall in NSP.Asked the price at the bookstore, checked amazon and then finally did what every sane person who wants a book does. Wait until Sunday and get it pre-loved at Mahila Haat for like 1/3rd the price and a torn cover.
+This book found me when I was browsing around a book store at a mall. Asked the price there, checked amazon and then finally did what every sane person who wants a book does. Wait until Sunday and get it pre-loved at Mahila Haat for like 1/3rd the price and a torn cover.
 
 My biggest fear while buying this though was that I would be buying a typical history textbook but as it turns out, its not that for the most part.
 
@@ -25,31 +25,34 @@ I learnt this little trick when I read "The Lady In The Red Sari by Javier Moro"
 
 Realized later that it's important to understand who the author is and what makes them tick to be able to understand the frame of reference of the book you're reading.
     
-So it was important for me to understand who Guha is before reading his ~800 page book on Modern Indian history. As it turns out he is a lot of things. He is -:
+So it was important for me to understand who Guha is before reading his ~800 page book on Modern Indian history. I won't put my read of him here, but feel free to [form your own](https://www.google.com/search?q=Ramachandra+Guha+political+leaning). 
 
-> There was a whole section about Guha's political leanings here, but I decided it wasn't wise to publish. Feel free to [form an opinion](https://www.google.com/search?q=Ramachandra+Guha+political+leaning) 
+## What I loved about the book
 
-A lot of above might just be my read of who or what he is, If you read this and feel otherwise, pls don't come after me. As said in the disclaimer already, I don't know enough about this to fight with you.
+I like the initial parts about Nehru and the foundation of India, only when you read what Vallabhbhai Patel and VP Menon did to unite 500 odd pieces of land together is when you realize why he's called *Sardar(The leader)* Vallabhbhai Patel.
 
-I like the initial parts about Nehru and the foundation of India, only when you read what Vallabhbhai Patel and VP Menon did to unite 500 odd pieces of land together is when you realize why he's called *Sardar(The leader)* Vallabhbhai Patel and similar things that make the country what it is today.
+Or when you actually look at what all happened during the Emergency you appreciate how that period was truly a dark period for our Nation. 
 
-Or when you actually look at what all happened during the Emergency you appreciate how that period was truly a dark period for our Nation. Most folks would say that it was caused because of the Supreme Court verdict on Indira Gandhi but not enough know or talk about how JP Narayan and his protests in Bihar were also key to the panic which lead to emergency.
+Most folks would say that it was caused because of the Supreme Court verdict on Indira Gandhi but not enough know or talk about how JP Narayan and his protests in Bihar were also key to the panic which lead to emergency.
 
-After reading this I realized why my grandmother votes the way she does or why my parents vote the way they do.
+## Things I found missing in the book 
 
-He also glosses over a lot of (subjectively) negative things Nehru did like AFSPA and how its still going in the Northeast. Adivasi issues like their movements, protests were also underplayed.
+He glosses over a lot of (subjectively) negative things Nehru did like AFSPA and how its still going in the Northeast. Adivasi issues like their movements, protests were also underplayed.
 
-Overall though for someone who had spent the last 25 years in the country without knowing the lore from a good (maybe biased) source, this was a fun informative read.
+## Verdict 
+
+Overall though for someone who had spent the last 25 years in the country without knowing the lore from a good (maybe biased) source, this was a fun informative read. If nothing else, I finally understand why my grandmother votes the way she does, and why my parents vote the way they do.
 
 ---
-You know what is Unbiased for sure ? The OG burger at Chard in Basant Lok Market, Vasant Vihar. Crispy Bacon with Caramelized onions is just [[ chef's kiss emoji ]]
+
+You know what is Unbiased for sure ? The OG burger at Chards in Basant Lok Market, Vasant Vihar. Crispy Bacon with Caramelized onions is just chef's kiss
 
 ---
-Some other books I'm hunting for now fill in more gaps in my understanding
+Some other books btw I'm hunting for now fill in more gaps in my understanding
 
 * The Strangers Of The Mist: Tales of War and Peace from India's Northeast
 * Nehru: A Troubled Legacy
-* The Dream of Revolution by JP Narayan
+* The Dream of Revolution by Bimal and Sujata Prasad
 * Makers of Modern India by Ramachandra Guha 
 
 

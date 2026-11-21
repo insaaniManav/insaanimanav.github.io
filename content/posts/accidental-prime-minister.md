@@ -7,7 +7,7 @@ author = "Manav"
 
 I was recently talking to a friend and the conversation eventually turned to politics, as it does.
 
-They said that they have the luxury of being "politically neutral" in life and don't have much of an opinion on things but lately I have come to realize something that one of the political commentators I follow says a lot
+They said that they have the luxury of being "politically neutral" in life and don't identify with either of the wings . Lately though I have come to realize something that one of the political commentators I follow says a lot
 
 > You may not mess with politics but politics will mess with you
 
@@ -21,15 +21,15 @@ To put it simply, Sanjaya Baru was responsible for making Dr Singh look good in 
 
 If you find yourself sympathizing with Dr Singh or find yourself in his corner, that was this man's job throughout Dr Singh's 2 terms and most likely for this book.
 
-That being said a few things from the book which I can still remember or which stuck with me,
+## Things that stuck with me 
 
 When Dr. Singh first took office, it was reported that L.K. Advani and some astrologers predicted that he would never finish a single full term in office.
 When Sanjaya told this news to Dr Singh, he started laughing which left Sanjaya perplexed.
-Dr. Singh then explained that since he was raised by his grandmother who never knew his birth date so she just made one up, Hence even if astrology were a real science nobody could predict his actual future
-He also said this while making the speech during one of the parliamentary sessions pertaining to the nuclear deal
+Dr. Singh then explained that since he was raised by his grandmother who never knew his birth date so she just made one up, Hence even if astrology were a real science nobody could predict his actual future.
+
+Mr Singh even said this while making the speech during one of the parliamentary sessions pertaining to the nuclear deal
 
 > At his ripe old age, I do not expect Shri Advani to change his thinking. But for his sake and India's sake, I urge him at least to change his astrologers so that he gets more accurate predictions of things to come
-
 
 Second was this incident when on Dr Singh's birthday, Rahul Gandhi led a delegation of ministers to his place in 7 RCR and they had a small celebration.
 
@@ -42,13 +42,13 @@ Next day all the media houses ran this story and then subtly Sanjaya just messag
 Lo and behold, As soon as the PM found out about it, he brought Sanjaya into his office and reprimanded him, saying that if the party wants to give the credit to Rahul, let them do it.
 
 I also feel like whenever someone assumes an office as big as the PMO of India, we all tend to forget they're human, but similar to Javier Moro's book about Sonia Gandhi, this book brings out some humanizing aspects of the PM too.
-For example, when Mrs Kaur found out that in some meetings of people with Dr.Singh, Samosas were being served, she immediately went and requested samosas to be replaced by Dhoklas as a healthy alternative.
-
-Overall though, it is a tight little book of incidents and things from a slightly skewed perspective about Dr.Singh and this is something that gives you a good glimpse into the workings of a Coalition govt.
+For example, when Mrs Kaur found out that in some meetings of people with Dr.Singh, Samosas were being served, she immediately went and requested samosas to be replaced by Dhoklas as a healthy alternative. 
 
 ---
 
-Another one of the things that I realized while reading this book was how slow and confusing the democratic process can be sometimes.
+## The nuclear deal
+
+I realized though while reading this book was how slow and confusing the democratic process can be sometimes.
 
 The second half of the book focuses on one of the big things achieved by UPA-1, India's Civil nuclear deal.
 
@@ -63,10 +63,10 @@ Here is a rough recreation of incidents with the years attached with a sprinkle 
 
 * 2007 - The left withdraws support
   * The left tries to arm twist the PM, by withdrawing support for the deal
-  * PM threatens to resign
+  * Manmohan threatens to resign
+  * Manmohan asks the left to shove it and goes to the IAEA nonetheless
 
 * Early 2008 - Ya no, let's not piss off the left
-  * Manmohan asks the left to shove it and goes to the IAEA nonetheless
   * Sonia Gandhi publicly makes a statement that if Dr. Singh wants to resign, he can, there are plenty of people willing to take his place
   * PM resigns for real
   * Sonia Gandhi convinces him to not resign
@@ -81,6 +81,9 @@ Reading about this entire ordeal makes one really think hard about the other sid
 But at the end I'd love to leave you with this quote from Mr Churchill a couple years after being voted out of office post WW2
 
 > Many forms of Government have been tried, and will be tried in this world of sin and woe. No one pretends that democracy is perfect or all-wise. Indeed it has been said that democracy is the worst form of Government except for all those other forms that have been tried from time to time
+
+## Verdict
+Overall though, it is a tight little book of incidents and things from a slightly skewed perspective about Dr.Singh and this is something that gives you a good glimpse into the workings of a Coalition govt.
 
 ---
 

@@ -15,17 +15,16 @@ The premise of the book is that every child born near or on the midnight hour of
 
 We are looking through the lens of one of such child - Saleem Sinai who has the powers of telepathy in the first half of the book and sniffing feelings of others in the second.
 
-Saleem claims to take responsibility or in some places tries to imply that it was because of him or someone in his family that most major things happened in the country. From his Grandfather being the only living person in Jallianwala Bagh
+The whole book is written in a very How I met your Mother-esque fashion, starting with his long 200+ pages description of his past, Super Elaborate stories of Pre-partition era Kashmir told through his grandfather's story.
+
+Then up until half the book he leads you to believe he is someone else entirely and then Mary Pereira's(the nurse at the hospital) fun little switcheroo in the middle of the book makes you question every damn thing you had read until then.
+
+Saleem claims to take responsibility in some and tries to imply in others that it was because of him or someone in his family that most major things happened in the country. From his Grandfather being the only living person in Jallianwala Bagh
 to his involvement with the West Pakistan army as a sniffer in the canine unit (Yes a human sniffer dog, I know Rushdie does that).
 
-The whole book is written in a very How I met your Mother-esque fashion, starting with his long 200+ pages description of his past, Aadam Sinai, Boatman Tai and then Reverend Mother
-how Aadam Sinai met his wife (Reverend Mother). Frequent callbacks to the "Hole in the Veil" philosophy.
+I loved the part where he says Indira Gandhi imposed emergency specifically because she wanted to collect all of the Midnight's children and neuter them because she felt threatened by their existence, But then reveals that Shiva's(Saleem's Rival) kids are all out there still.
 
-Then up until half the book he leads you to believe he is someone else entirely and then Mary Pereira's fun little switcheroo in the middle of the book makes you question every damn thing you had read until then.
-
-After which you have no idea who Padma even is and why is she so invested in his tale and then finally the big Braganza pickle reveal which leaves you crying a little (that he got a happy ending) and then strangely disappointed too (Idk why I just expected a twist)
-
-I also loved the part where he says Indira Gandhi imposed emergency specifically because she wanted to collect all of the Midnight's children and neuter them because she felt threatened by their existence, But then reveals that Shiva's kids are all out there still.
+Adding to my How I met your mother-esque point, Up until the end you have no idea who Padma(The observer of the entire novel, the one who is being told this story) even is and why is she so invested in his tale and then finally the big reveal at the end which leaves you crying a little (that he got a happy ending) and then strangely disappointed too (idk why I just expected a twist).
 
 Anyhoo, I can write a million lines starting from the phrase "I also loved the part.." but then this would no longer be a "Tiny" book review . So I will just leave it at that. Overall the book is once again a must read (if you can find your way around Rushdie's writing style)
 
